@@ -1,0 +1,16 @@
+h2 { color: rgb(0, 0, 0);
+     background-color: rgb(228, 84, 84);
+     padding-bottom: 20px; padding-left: 20px; padding-right: 20px;
+     padding-top: 20px; max-width: max-content;
+    }
+
+.section1 {background-color: rgb(252, 229, 202); color: black; margin-left: 5px; padding-left:10px; padding-top: 5px; padding-bottom: 5px;}
+
+.p2 {border: 2px solid bisque; padding: 10px;       display:inline-block;
+}
+
+.h4 {margin-left: 5px;}
+
+footer { display: flexbox; background-color: rgb(120, 233, 154); color: black; padding-top: 4px; padding-bottom: 10px; margin-left: 5px; padding-left: 5px;
+
+}
